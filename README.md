@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ComradeDear
+- 👋 Hi, I’m Dear Comrade
 - 👀 I’m interested in coding and hacking
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
