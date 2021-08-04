@@ -9,7 +9,7 @@ ComradeDear/ComradeDear is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 # MY STATS 
-![DEAR COMRADE github stats](https://github-readme-stats.vercel.app/api?username=ComradeDear&show_icons=true&theme=midnight-blue)
+![DEAR COMRADE github stats](https://github-readme-stats.vercel.app/api?username=ComradeDear&show_icons=true&theme=midnight-black)
 
 # MOST USED LANGUAGES
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=ComradeDear&theme=midnight-purple)
