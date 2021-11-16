@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Python and CheemsBaji
 - 💞️ I’m looking to collaborate on ...NomThing
 - 📫 Reach me on [Telegram](https://t.me/XDComrade)
+- [![Profile views](https://komarev.com/ghpvc/?username=ComradeDear&label=Profile%20views)](https://github.com/ComradeDear)
+
 
 <!---
 ComradeDear/ComradeDear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
