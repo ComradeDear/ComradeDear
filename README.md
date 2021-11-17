@@ -17,4 +17,4 @@ You can click the Preview link to take a look at your changes.
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=ComradeDear&theme=midnight-purple)
 
 ### Contact me -_-
-- <a href="https://t.me/CoolBruh"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+ <a href="https://t.me/CoolBruh"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
