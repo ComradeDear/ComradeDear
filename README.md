@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and CheemsBajing
 - 🌱 I’m currently learning Python and CheemsBaji
 - 💞️ I’m looking to collaborate on ...NomThing
-- 📫 Reach me on [Telegram](https://t.me/XDComrade)
+- 📫 Reach me on [Telegram](https://t.me/coolbruh)
 - [![Profile views](https://komarev.com/ghpvc/?username=ComradeDear&label=Profile%20views)](https://github.com/ComradeDear)
 
 
