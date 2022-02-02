@@ -2,7 +2,7 @@
 <h2 align="left"><img src="https://komarev.com/ghpvc/?username=ComradeDear&style=flat-square&color=39FF14"></h2>
 
 ## 🤘About Meh 
-  Hello, I'm [Comrade](ComradeDear.me)
+  Hello, I'm [Comrade](https://ComradeDear.me)
 - 😌I love Coding
 - 🤧I am Currently working on some Shits
 - 😅FunFact- I am Noob
