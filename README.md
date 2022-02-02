@@ -1,5 +1,5 @@
 <h1 align="center"> Heya! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> I'm Comrade </h1>
-<h4 align="left"><img src="https://komarev.com/ghpvc/?username=ComradeDear&style=flat-square&color=39FF14"></h4>
+<h4 align="left"><img src="https://komarev.com/ghpvc/?username=ComradeDear&style=flat-square&color=39FF24"></h4>
 
 ## 🤘About Meh 
   Hello, I'm [Comrade](https://github.com/ComradeDear)
