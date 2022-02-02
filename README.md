@@ -1,5 +1,5 @@
 <h1 align="center"> Heya! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> I'm Comrade </h1>
-[![Profile views](https://komarev.com/ghpvc/?username=ComradeDear&label=Profile%20views)](https://github.com/ComradeDear)
+- [![Profile views](https://komarev.com/ghpvc/?username=ComradeDear&label=Profile%20views)](https://github.com/ComradeDear)
 
 ## 🤘About Meh 
   Hello, I'm [Comrade](https://github.com/ComradeDear)
