@@ -1,7 +1,7 @@
-Heya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Comrade](https://comradedear.me) | [![Profile views](https://komarev.com/ghpvc/?username=ComradeDear&label=Profile%20views)](https://github.com/ComradeDear)
-   
-## 🤘About Meh
-   
+<h1 align="center"> Heya! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> I'm Comrade </h1>
+[![Profile views](https://komarev.com/ghpvc/?username=ComradeDear&label=Profile%20views)](https://github.com/ComradeDear)
+
+## 🤘About Meh 
   Hello, I'm [Comrade](https://github.com/ComradeDear)
 - 😌I love Coding
 - 🤧I am Currently working on some Shits
