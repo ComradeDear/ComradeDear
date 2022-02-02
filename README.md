@@ -10,7 +10,7 @@
 
 ## 🏆Stats
 ![Comrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=comradedear&show_icons=true&theme=tokyonight)
-<h4 align="left"><img src="https://komarev.com/ghpvc/?username=ComradeDear&style=flat-square&color=39FF14"></h4>
-
+[![Profile views](https://komarev.com/ghpvc/?username=ComradeDear&label=Profile%20views)](https://github.com/comradedear)
+   
 ## 📱Contact Me
 <a href="https://t.me/xD_Comrade"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
