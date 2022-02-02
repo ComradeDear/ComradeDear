@@ -9,7 +9,7 @@
 - 😁Real Fact- I am Very-Cute 
 
 ## 🏆Stats
- ![Comrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=comradedear&show_icons=true&theme=tokyonight)
+![Comrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=comradedear&show_icons=true&theme=tokyonight)
 <h4 align="left"><img src="https://komarev.com/ghpvc/?username=ComradeDear&style=flat-square&color=39FF14"></h4>
 
 ## 📱Contact Me
