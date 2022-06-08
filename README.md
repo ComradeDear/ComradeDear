@@ -6,7 +6,7 @@
 - 😌I love Coding
 - 🤧I am Currently working on some Shits
 - 😅FunFact- I am Noob
-- 😁Real Fact- I am Very-Cute 
+- 😁Real Fact- I don't give a fuck!
 
 ## 🏆Stats
 ![Comrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=comradedear&show_icons=true&theme=tokyonight)
