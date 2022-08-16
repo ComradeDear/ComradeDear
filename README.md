@@ -1,9 +1,9 @@
-<h1 align="center"> Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> I'm Comrade </h1>
+<h1 align="center"> Heya! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> I'm Comrade </h1>
 <h2 align="left"><img src="https://komarev.com/ghpvc/?username=ComradeDear&style=flat-square&color=39FF14"></h2>
 
 ## 🤘About Meh 
   Hello, I'm [Comrade](https://ComradeDear.me)
-- 😌I love Coding
+- (^^) I love Coding
 - 🤧I am Currently working on some Shits
 - 😅FunFact- I am Noob
 - 😁Real Fact- I don't give a fuck!
