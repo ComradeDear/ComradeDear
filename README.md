@@ -8,8 +8,7 @@
 - 😅FunFact- I am Noob
 - 😁Real Fact- I don't give a fuck!
 
-## 🏆Stats
-![Comrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=comradedear&show_icons=true&theme=tokyonight)
+<p align="center"><img src="assets/stats.svg" alt="comradedear" /></p>
 
 ## 📱Contact Me
 <a href="https://t.me/xD_Comrade"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
